@@ -1,16 +1,32 @@
-### Hi there 👋
+# Olá, seja bem vindo!
 
-<!--
-**mateus-l-caetano/mateus-l-caetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+É um prazer ter você aqui.
 
-Here are some ideas to get you started:
+Me chamo Mateus Caetano e sou desenvolvedor mobile desde 2020.
+Atualmente trabalho no Grupo Boticário onde desenvolvo apps android.
+Estou focado no desenvolvimento android nativo com kotlin mas já tive experiência com React Native, Flutter e Qt.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu primeiro contato com programação foi em 2015 em um curso técnico. Posteriormente ingressei em um curso de Engenharia de Computação pela Universidade Federal do Ceará e mais recentemente, no curso de Análise e desenvolvimento de Sistemas pela Universidade de Fortaleza.
+
+# Experiência
+
+### Grupo Boticário
+
+- Desenvolvi apps android responsivos e fiéis ao protótipo
+- Integrei o app com o back-end
+- Fiz a refatoração de código legado
+- Corrigi bugs
+- Implementei testes unitários
+- Trabalhei com criptografia de senhas
+
+# Projetos
+
+- [Notas](https://github.com/mateus-l-caetano/notes)
+- [Events](https://github.com/mateus-l-caetano/Events)
+
+# Competências
+- Kotlin
+- Android SDK
+- Bibliotecas Android Jetpack
+- Integração com API
+- Testes Unitários
