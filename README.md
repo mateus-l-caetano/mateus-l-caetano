@@ -21,8 +21,13 @@ Meu primeiro contato com programação foi em 2015 em um curso técnico. Posteri
 
 # Projetos
 
-- [Notas](https://github.com/mateus-l-caetano/notes)
-- [Events](https://github.com/mateus-l-caetano/Events)
+### [Notes (clique para ver)](https://github.com/mateus-l-caetano/notes)
+
+Crie, visualize e edite notas de forma fácil e rápida.
+
+### [Events (clique para ver)](https://github.com/mateus-l-caetano/Events)
+
+Faça check-in em eventos de forma fácil e rápida.
 
 # Competências
 - Kotlin
